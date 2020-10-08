@@ -54,7 +54,7 @@ Take a look at the Turret scene. Do you understand what is happening? What quest
 
 Test the project. You should now see the turrets cycling through their modes.
 
-For extra credit, add the following states to the Player state machine: attack, crouch, and die (the die() function in the player can instead update the state machine). Can you implement double jump or wall jump? How would you do that?
+For extra credit, add the following states to the Player state machine: attack, crouch, and die (the die() function in the player can instead update the state machine). You can add animations for the states, as they are available. Can you implement double jump or wall jump? How would you do that?
 
 If you implement any of the extra credit, describe what you did in the README.md, below.
 
