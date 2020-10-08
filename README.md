@@ -76,6 +76,8 @@ The player sprite is an adaptation of [MV Platformer Male](https://opengameart.o
 
 The bat sprite was originally created by bagzie for Stendhal and was [reworked by AntumDeluge](https://opengameart.org/content/bat-rework). 
 
+The turret was created by Jason Francis and used with permission.
+
 ## References
 None
 
