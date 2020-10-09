@@ -31,7 +31,7 @@ onready var ray = $RayCast2D
 export var speed = 250
 export var looking_speed = 100
 	
-func _physics_process(delta):
+func _physics_process(_delta):
 	if player == null:
 		player = get_node("/root/Game/Player_Container/Player")
 	else:
