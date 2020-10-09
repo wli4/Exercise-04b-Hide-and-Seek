@@ -8,8 +8,8 @@ func _ready():
 	pass
 
 
-func _physics_process(delta):
-	if get_node("Player") == null:
+func _physics_process(_delta):
+	if not has_node("Player"):
 		var player = Player.instance()
 		player.position = starting_position
 		add_child(player)

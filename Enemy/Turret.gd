@@ -1,6 +1,5 @@
 extends KinematicBody2D
 
-onready var player = get_node("/root/Game/Player_Container/Player")
 onready var SM = $StateMachine
 
 var found = false

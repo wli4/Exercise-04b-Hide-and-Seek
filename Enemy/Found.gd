@@ -3,7 +3,7 @@ extends Node
 onready var SM = get_parent()
 onready var enemy = get_node("../..")
 
-onready var player = get_node("/root/Game/Player_Container/Player")
+onready var player = null
 onready var ray = enemy.get_node("RayCast2D")
 onready var laser = enemy.get_node("Laser")
 
