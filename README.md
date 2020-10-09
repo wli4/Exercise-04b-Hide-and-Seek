@@ -67,7 +67,7 @@ The final state of the file should be as follows (replacing the "Created by" inf
 # Exercise-04b-Hide-and-Seek
 Exercise for MSCH-C220, 8 October 2020
 
-THe second exercise for the 2D Platformer project, exploring two enemy types.
+The second exercise for the 2D Platformer project, exploring two enemy types.
 
 ## Implementation
 Built using Godot 3.2.2
