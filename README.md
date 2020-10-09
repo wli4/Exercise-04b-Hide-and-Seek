@@ -11,7 +11,7 @@ Open Godot. Import the project.godot file and open the "Hide and Seek" project.
 
 You should see a very basic 2D Platformer with tiles made from the Godot Logo. The player is very similar to the one we developed in exercise 04a. *Notice he now jumps with the w character instead of the space bar.* Now, we will create some enemies for him to contend with.
 
-In the Scene Panel, right-click on the Enemy_Container node and Add Child Node. Select KinematicBody2D, and rename it Bat.
+In the Scene Panel, right-click on the Enemy_Container node and Add Child Node. Select KinematicBody2D, and rename it Bat. Position the bat at x=2000, y=100.
 
 As children of the Bat node, add AnimatedSprite, CollisionShape2D, and RayCast2D nodes.
 
